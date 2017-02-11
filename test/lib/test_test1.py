@@ -1,7 +1,7 @@
 import json
 import mock
 from lib.test1 import UnitTest1
-from development.test.__init__ import UnitTestBase, unittest
+from test.__init__ import UnitTestBase, unittest
 
 class UnitTest(UnitTestBase):
 
